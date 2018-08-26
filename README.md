@@ -54,18 +54,8 @@
 ## Usage
 
 ```bash
-$ git clone https://github.com/xiaohuoni/dva-umi.git
+$ git clone https://github.com/happy-lyz/dva-umi.git
 $ cd dva-umi
-$ npm install
-$ npm start         # visit http://localhost:8000
-```
-
-Or you can use the command tool: [oni-cli](https://github.com/xiaohuoni/oni-cli)
-
-```bash
-$ npm install oni-cli -g
-$ oni new myapp
-$ cd myapp
 $ npm install
 $ npm start         # visit http://localhost:8000
 ```
